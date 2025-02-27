@@ -1,0 +1,3 @@
+/Users/dmitrii/OpenGL_BlackHole_Simulation/build/CMakeFiles/particles.dir
+/Users/dmitrii/OpenGL_BlackHole_Simulation/build/CMakeFiles/edit_cache.dir
+/Users/dmitrii/OpenGL_BlackHole_Simulation/build/CMakeFiles/rebuild_cache.dir
