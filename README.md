@@ -1,4 +1,5 @@
 
+![Alt Text](https://github.com/dimasximik/OpenGL_BlackHole_Simulation/blob/main/blackholeOptimized.gif)
 # OpenGL Black Hole Simulation
 
 This project is a **real-time particle simulation** inspired by the mesmerizing visuals of a black hole. Using **OpenGL 4.1 Core Profile** and **GLFW**, it creates a swirling vortex where particles spiral inward, fade as they approach the event horizon, and continuously respawn at the outer boundary.
