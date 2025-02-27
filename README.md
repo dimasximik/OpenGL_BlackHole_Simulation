@@ -104,3 +104,6 @@ Experiment with these values to create different accretion disk effects!
 ## 📜 License
 
 This project is distributed under the [MIT License](https://opensource.org/license/mit)
+
+Author: Dmitrii Smirnov 
+Contact: https://www.linkedin.com/in/dmitrii-smirnov-57a812187/
